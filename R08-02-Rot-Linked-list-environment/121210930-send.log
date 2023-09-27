@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-25T08:15:42.729-0300</date>
+  <logger>ANDREZA VILAR DE FARIAS</logger>
+  <level>FINE</level>
+  <message>File 121210930-ANDREZA VILAR DE FARIAS.zip was received. It was sent by ANDREZA VILAR DE FARIAS from IP 192.168.48.218 at 25-09-2023 08*15*42</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-25T08:19:10.957-0300</date>
+  <logger>ANDREZA VILAR DE FARIAS</logger>
+  <level>FINE</level>
+  <message>File 121210930-ANDREZA VILAR DE FARIAS.zip was received. It was sent by ANDREZA VILAR DE FARIAS from IP 192.168.48.218 at 25-09-2023 08*19*10</message>
+</record>
