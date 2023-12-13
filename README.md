@@ -1,3 +1,33 @@
+# Estruturas de Dados e Laboratório de Algoritmos - UFCG
+
+## Repositórios de atividades
+
+
+Bem-vindo ao meu repositório pessoal para as tarefas do curso de Estruturas de Dados e Laboratório de Algoritmos na Universidade Federal de Campina Grande (UFCG). Aqui, compartilho as tarefas nas quais tenho trabalhado ao longo do curso. Essas tarefas são projetos práticos que exploram conceitos fundamentais de estruturas de dados e algoritmos, permitindo-me aplicar e aprimorar minhas habilidades de programação.
+
+## Sobre os laboratórios
+
+
+Cada pasta neste repositório corresponde a uma tarefa específica do curso. Dentro de cada pasta, você encontrará:
+
+## Contato
+
+
+Se tiver alguma dúvida, sugestão ou apenas quiser discutir tópicos relacionados às tarefas ou ao curso, não hesite em entrar em contato comigo. Você pode encontrar minhas informações de contato no meu perfil do GitHub.
+
+Atenciosamente,
+Andreza
+Estudante de Ciência da Computação
+Universidade Federal de Campina Grande
+
+
+
+
+
+
+
+
+
 # Data Structures and Algorithms Lab - UFCG
 
 ## Assignment Repositories
