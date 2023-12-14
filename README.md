@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório pessoal para as tarefas do curso de Estruturas de 
 ## Sobre os laboratórios
 
 
-Cada pasta neste repositório corresponde a uma tarefa específica do curso. Dentro de cada pasta, você encontrará:
+Cada pasta neste repositório corresponde a uma atividade específica do curso. 
 
 ## Contato
 
@@ -36,7 +36,7 @@ Welcome to my personal repository for the assignments of the Data Structures and
 
 ## About the Assignments
 
-Each folder in this repository corresponds to a specific assignment from the course. Within each folder, you'll find:
+Each folder in this repository corresponds to a specific assignment from the course. 
 
 ## Contact
 
