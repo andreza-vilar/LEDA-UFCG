@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
@@ -13,7 +13,7 @@ public class Solution {
             arr[i] = Integer.parseInt(inputArray[i]);
         }
 
-        // Reordenando o último elemento
+        // Reordenando o último elemento usando Insertion Sort
         int n = arr.length;
         int lastElement = arr[n - 1];
         int i = n - 2;
@@ -30,4 +30,3 @@ public class Solution {
         System.out.println(Arrays.toString(arr));
     }
 }
-
